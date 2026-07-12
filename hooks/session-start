@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+printf '%s\n' 'Superpowers Lean: invoke a named protocol only when its entry conditions match.'

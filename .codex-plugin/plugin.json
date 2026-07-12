@@ -1,0 +1,24 @@
+{
+  "name": "superpowers-lean",
+  "version": "0.1.0",
+  "description": "Lean, decision-aware development protocols for Codex.",
+  "author": {
+    "name": "Wenqi Wang"
+  },
+  "license": "MIT",
+  "keywords": ["planning", "implementation", "diagnosis", "review"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Superpowers Lean",
+    "shortDescription": "Lean protocols for design, delivery, diagnosis, and review.",
+    "longDescription": "Use small, explicit development protocols without a universal router or prewritten implementation code.",
+    "developerName": "Wenqi Wang",
+    "category": "Developer Tools",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Review this plan until it is ready to implement.",
+      "Diagnose this failure without changing code.",
+      "Execute this approved plan step by step."
+    ]
+  }
+}

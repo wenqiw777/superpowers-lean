@@ -1,0 +1,9 @@
+{
+  "name": "superpowers-lean",
+  "version": "0.1.0",
+  "description": "Lean development protocols for design, delivery, diagnosis, and review.",
+  "author": {
+    "name": "Wenqi Wang"
+  },
+  "license": "MIT"
+}
