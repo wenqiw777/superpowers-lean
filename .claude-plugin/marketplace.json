@@ -1,0 +1,13 @@
+{
+  "name": "superpowers-lean",
+  "owner": {
+    "name": "Wenqi Wang"
+  },
+  "plugins": [
+    {
+      "name": "superpowers-lean",
+      "source": "./",
+      "description": "Lean development protocols: design, execute, diagnose, review-and-finish, plus a goal entry."
+    }
+  ]
+}
